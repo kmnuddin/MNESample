@@ -1,2 +1,5 @@
 *.xslx
 *.mat
+*.xyz
+*.elp
+*.loc
